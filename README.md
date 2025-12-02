@@ -1,5 +1,5 @@
 # IVPack
-IVPack [FiveM Ready] - By jito_xd
+IVPack [FiveM Ready] - By jitodv
 
 # Español
 IVPack for FiveM - Trae los vehículos de la sombría ciudad de Liberty City al siempre soleado estado de San Andreas! 
